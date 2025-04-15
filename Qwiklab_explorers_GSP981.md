@@ -9,8 +9,8 @@
  
 ### 1️⃣ Add Workspace users
 
-- **First name**: `Maria` and **Last name**: `Kearns`
-- **First name**: `Alex` and **Last name**: `Miller`
+- **First name**: `Maria` & **Last name**: `Kearns`
+- **First name**: `Alex` & **Last name**: `Miller`
 
 ---
 
@@ -21,8 +21,8 @@
 
 ### 3️⃣ Search :
 
-- Settings for Classroom
-- Settings for Google Meet
+- `Settings for Classroom`
+- `Settings for Google Meet`
 
 ---
 
